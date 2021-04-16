@@ -1,5 +1,17 @@
 # weekly33
 
+## graphql basics 
+
+```
+:wq
+```
+
+```
+cd grql
+node server.js
+npm run start
+```
+
 ## knex
 
 ```
