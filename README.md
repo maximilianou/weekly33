@@ -23,4 +23,6 @@ npm run start
 
 REFERENCE:
 
+https://graphql.org/graphql-js/
+
 https://www.taniarascia.com/integration-testing-with-jest-typescript-objection/
